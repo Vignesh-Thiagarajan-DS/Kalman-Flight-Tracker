@@ -1,11 +1,8 @@
-# Kalman-Flight-Tracker
-A Python-based simulation visualizing the Kalman Filter for high-precision object tracking and navigation amidst noisy sensor data.
-
 # Kalman Flight Tracker
 
-An interactive Streamlit application that provides a simulation of the Kalman filter for high-precision aircraft navigation. This project demonstrates how the algorithm takes erratic, noisy sensor readings (simulating GPS) and produces a smooth, reliable estimate of an object's true trajectory.
+An interactive application that provides a simulation of the Kalman filter for high-precision aircraft navigation. This project demonstrates how the algorithm takes erratic, noisy sensor readings (simulating GPS) and produces a smooth, reliable estimate of an object's true trajectory.
 
-![Kalman Filter Demo GIF](static/demo.mp4)
+![Kalman Filter Demo GIF](static/demo.gif)
 
 ---
 
@@ -19,7 +16,7 @@ An interactive Streamlit application that provides a simulation of the Kalman fi
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 To get this application running on your local machine, follow these steps.
 
@@ -53,7 +50,7 @@ Ensure you have Python 3.8+ installed.
 
 ---
 
-## ▶️ How to Run the App
+## How to Run the App
 
 Once the installation is complete, you can launch the Streamlit application.
 
@@ -67,6 +64,6 @@ Your web browser will automatically open with the interactive application. Adjus
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 This project was inspired by a visit to the **Databricks + AI Summit**, where a Joby Aviation eVTOL was on display. Receiving a postcard from one of their test flights sparked my curiosity to explore and visualize the data science behind autonomous navigation.
